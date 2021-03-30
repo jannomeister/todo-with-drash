@@ -1,4 +1,4 @@
-import { Drash } from "https://deno.land/x/drash@v1.4.2/mod.ts";
+import { Drash } from "../deps.ts";
 import TodoService from "../services/todo_service.ts";
 
 import { CreateTodo, create, findOne, remove } from "../db.ts";
