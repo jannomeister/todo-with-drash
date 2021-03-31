@@ -22,7 +22,7 @@ This guide will walk you through on how to run this locally
 
 #### Testing
 
-- you can just the integration testing sample inside `tests/integration` folder
+- you can run the integration testing sample inside `tests/integration` folder
 - you can run `deno test --allow-env --allow-net` to run the test cases
 
 ## LICENSE
